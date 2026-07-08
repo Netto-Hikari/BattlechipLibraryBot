@@ -1,0 +1,17 @@
+{
+  "A": {
+    "name": "Advanced BattleChip",
+    "database": "database/advanced.json",
+    "image_folder": "images/advanced"
+  },
+  "P": {
+    "name": "Progress BattleChip",
+    "database": "database/progress.json",
+    "image_folder": "images/progress"
+  },
+  "L": {
+    "name": "Link BattleChip",
+    "database": "database/link.json",
+    "image_folder": "images/link"
+  }
+}

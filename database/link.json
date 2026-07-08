@@ -1,0 +1,13 @@
+{
+  "L001": {
+    "name": "Cannon",
+    "number": "001",
+    "power": "40",
+    "element": "Neutral",
+    "class": "Standard",
+    "game": "Battle Network 6",
+    "toy": "Link PET EX, Battlechip Stadium.",
+    "description": "Fires a straight cannon blast.",
+    "image": "images/link/L001.png"
+  }
+}

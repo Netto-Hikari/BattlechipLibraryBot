@@ -3362,7 +3362,7 @@
     "class": "Net Navi",
     "game": "EXE4.5/MMBN4.5",
     "toy": "Battle Chip Gate, Progress PET",
-    "description": "Unlocks Napalmman.EXE to use in the Rockman.EXE/Battle Network 4.5 GBA game.",
+    "description": "Unlocks Napalmman.EXE to use in the EXE4.5/MMBN4.5 game.",
     "image": "images/advanced/A332.png"
   },
   "A333": {
@@ -3373,7 +3373,7 @@
     "class": "Net Navi",
     "game": "EXE4.5/MMBN4.5",
     "toy": "Battle Chip Gate Only",
-    "description": "Unlocks Forte.EXE to use in the Rockman.EXE/Battle Network 4.5 GBA game.",
+    "description": "Unlocks Forte.EXE to use in the EXE4.5/MMBN4.5 game.",
     "image": "images/advanced/A333.png"
   }
 }  

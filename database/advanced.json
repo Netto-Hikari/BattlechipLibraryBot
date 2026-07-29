@@ -3149,9 +3149,9 @@
     "name": "Rockman Data",
     "number": "313",
     "power": "",
-    "element": "",
-    "class": "",
-    "game": "Battle Network 4.5",
+    "element": "None",
+    "class": "Net Navi",
+    "game": "Battle Network 4 Operation Battle and Battle Network 4.5",
     "toy": "Advanced PET, Advanced PET 2, Progress PET",
     "description": "",
     "image": "images/advanced/A313.png"
@@ -3162,7 +3162,7 @@
     "power": "",
     "element": "",
     "class": "",
-    "game": "Battle Network 4.5",
+    "game": "Battle Network 4 Operation Battle and Battle Network 4.5",
     "toy": "Advanced PET, Advanced PET 2, Progress PET",
     "description": "",
     "image": "images/advanced/A314.png"
